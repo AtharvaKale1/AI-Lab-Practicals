@@ -1,4 +1,4 @@
-# 🚀 AI Practicals - Semester VI
+# 🚀 AI Practicals
 
 ## 🧑‍🎓 Student Details:
 - **Name:** Atharva Kale  
