@@ -41,8 +41,10 @@ This repository contains the implementation of various AI practicals completed a
    ```bash
    pip install nltk
    ```
-3. Run individual scripts using Python:
+3. Run individual scripts using C and Python:
    ```bash
+   BFS.c
+   DFS.c
    python 8queens.py
    python text_preprocessing.py
    ```
