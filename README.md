@@ -43,8 +43,6 @@ This repository contains the implementation of various AI practicals completed a
    ```
 3. Run individual scripts using Python:
    ```bash
-   python bfs.py
-   python dfs.py
    python 8queens.py
    python text_preprocessing.py
    ```
